@@ -1,0 +1,38 @@
+body,html{
+	height: 100%;
+	width: 100%;
+	font-family: 'Fredoka', sans-serif;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Montserrat', sans-serif;
+}
+	body { 
+  background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+	color: #999999;
+
+}
+/*.container{
+	height: 100%;
+}*/
+.buffer{
+	height: 160px;
+}
+
+.btn-primary{
+	background-color: #ff4700;
+	border: 2px solid #ff4700;
+	border-radius: 30px;
+	padding: 10px 20px 10px 20px;
+}
+.btn{
+	font-weight: 700;
+}
+.btn-primary:hover{
+	background-color: #ff4700;
+	border: 5px solid #ff4700;
+}
